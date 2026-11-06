@@ -18,7 +18,7 @@ body:
       required: true
     attributes:
       multiple: true
-      label: "Which file you found the problem?"
+      label: "1. Which file you found the problem?"
       description: Select which section(s) you found problem(s) that needs fixing.
       options:
         - open-source-gnu/License.md
@@ -31,7 +31,7 @@ body:
     validations:
       required: true
     attributes:
-      label: "Please provide the details of the grammar / spelling errors found, with the proposed fix to them:"
+      label: "2. Please provide the details of the grammar / spelling errors found, with the proposed fix to them:"
       description: "Provide detailed information about the errors found, so we can work on fixing them. Suggestions are also allowed to be provided, in case some of the writing can be improved."
       placeholder: |
         Please describe the errors found, following the template below:
@@ -53,7 +53,7 @@ body:
     id: contact
     attributes:
       description: Let us know if you want to be contacted directly about the progress of work into this.
-      label: "Do you want to be contacted about this issue?"
+      label: "3. Do you want to be contacted about this issue?"
       options:
         - "No"
         - "Yes"
@@ -64,16 +64,16 @@ body:
   - type: input
     id: email
     attributes:
-      label: "Email:"
+      label: "4. Email:"
       description: If you select "Yes" above, please provide your email address so that we can contact you about this feature request.
       placeholder: myemail@example.com
 
   - type: checkboxes
     id: consent
     attributes:
-      label: 'Consentient:' 
+      label: '5. Consent:' 
       options:
-        - label: By selecting "Yes" and providing my e-mail, I understand that the developer won't be using it for any other purposes than contacting me about this issue.
+        - label: By selecting "Yes" on the item (3) and providing my e-mail on the item (4) of this form, I understand and allow von Schappler to contact me about this case.
   
   - type: markdown
     attributes:
@@ -84,7 +84,7 @@ body:
   - type: checkboxes
     id: terms
     attributes:
-      label: 'Agreement:' 
+      label: '6. Agreement:' 
       options:
         - label: I agree that by submitting this report the information listed here are suggestions that aim to improve the application.
           required: true
