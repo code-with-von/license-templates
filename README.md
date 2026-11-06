@@ -1,5 +1,7 @@
 # @code-with-von/license-templates
 
+#licenses #license-templates
+
 ## Motivation
 
 This repository was created to with the main intention of sharing the license templates that **I**, **von Schappler** (either as a [person](https://github.com/code-with-von) or as a [professional](https://github.com/vonschappler)) created and started making use on everything I create.
