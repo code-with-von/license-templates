@@ -40,8 +40,10 @@ body:
       label: "3. Do you want your data to be kept anonymous?"
       description: 'Selecting "Yes" will just ensure none of your personal information asked above will be shared in the public FAQ.'
       options:
-        - "Yes"
-        - "No"
+        - "Yes (no data shared)"
+        - "Just name (your email will be listed)"
+        - "Just email (your name will be listed)"
+        - "No (both name and email will be listed)"
       default: 0
 
 
@@ -77,9 +79,9 @@ body:
     attributes:
       label: '6. Agreement:' 
       options:
-        - label: By selecting "NO" in the item (3) of this form, I am hereby authorize von Schappler to provide my email in the **FAQ** session of this public repository.
+        - label: I have properly set my privacy settings by answering item (3) of this form.
           required: true
-        - label: By selecting "YES" in the item (5) of this form, I am hereby authorizing von Schappler to send me a notification with status of this request on the email provided.
+        - label: By selecting "Yes" in the item (5) of this form, I am hereby authorizing von Schappler to send me a notification with status of this request on the email provided.
           required: true
         - label: I understand that my request may take some time to be attended, and the proposal for improvements I suggested may not be accepted, hence not applied to the application. I also understand that as soon as the it'll be added to the FAQ, respecting the privacy settings selected on item (3) of this form.
           required: true
