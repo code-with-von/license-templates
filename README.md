@@ -14,13 +14,13 @@ And that is why **Licenses** exist. So with this in mind, **I had created this s
 
 ## Requesting new license templates
 
-If you like this concept and there is something you think it's missing, submit your request by clicking [here](). Your request will be fulfilled based on **my free time** and **possible needs / use-cases** where I see it fit.
+If you like this concept and there is something you think it's missing, submit your request by clicking [here](https://github.com/code-with-von/license-templates/issues/new?template=01-template-request.yml). Your request will be fulfilled based on **my free time** and **possible needs / use-cases** where I see it fit.
 
 ---
 
-## Reporting problems
+## Reporting grammar problems
 
-To report problems, fixes or found typos in the templates provided, please submit a request in our [issues form]().
+To report grammar problems in the templates provided, please submit a request in our [issues form](https://github.com/code-with-von/license-templates/issues/new?template=02-typos.yml).
 
 > [!note]
 > The requests will be checked, evaluated and fixed if/when needed.
@@ -29,7 +29,7 @@ To report problems, fixes or found typos in the templates provided, please submi
 
 ## FAQ
 
-If you have any questions, feel free to submit them to the [FAQ form]() and your question/answer will be added to this section if **relevant** to the project.
+If you have any questions, feel free to submit them to the [FAQ form](https://github.com/code-with-von/license-templates/issues/new?template=03-faq.yml) and your question/answer will be added to this section if **relevant** to the project.
 
 
 
