@@ -10,7 +10,7 @@ body:
   - type: markdown
     attributes:
       value: |
-        Please provide as much details as possible about the problem(s) found, filling the fields below properly while also proposing possible fixes to them.
+        > Provide as much details as possible about the problem(s) found, filling the fields below. The more details you provide, the easier it will be for us to fix them.
   
   - type: dropdown
     id: type
@@ -34,19 +34,25 @@ body:
       label: "2. Please provide the details of the grammar / spelling errors found, with the proposed fix to them:"
       description: "Provide detailed information about the errors found, so we can work on fixing them. Suggestions are also allowed to be provided, in case some of the writing can be improved."
       placeholder: |
-        Please describe the errors found, following the template below:
+        Please describe the errors found, following the example below:
 
   - type: markdown
     attributes:
       value: |
-        > Suggestion template:
+        > Report Example:
         >
         > ```md
+        > ## Grammar / Spelling Errors Found
+        >
         > - Section 1 (e.g. Table of Contents)
         >    - Spelling error at the text "... abot ..." should be "... about ..." at paragraph 5 of the section.
         >    - Line 10 is not clear as the most appropriated punctuation to it should contain a `.` instead of a `!`
         > - Section 2 (e.g. Help / Live Editor)
-        >     - Line 30 looks like incomplete as it's missing detailed information
+        >    - Line 30 looks like incomplete as it's missing detailed information
+        >
+        > ## Suggestions
+        >
+        > - Add a new section called "Contributing" to explain how to contribute to this project
         > ```
 
   - type: dropdown
