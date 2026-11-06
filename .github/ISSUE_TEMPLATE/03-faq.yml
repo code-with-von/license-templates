@@ -81,5 +81,5 @@ body:
           required: true
         - label: By selecting "YES" in the item (5) of this form, I am hereby authorizing von Schappler to send me a notification with status of this request on the email provided.
           required: true
-        - label: I understand that my request may take some time to be attended, and the proposal for improvements I suggested may not be accepted, hence not applied to the application.
+        - label: I understand that my request may take some time to be attended, and the proposal for improvements I suggested may not be accepted, hence not applied to the application. I also understand that as soon as the it'll be added to the FAQ, respecting the privacy settings selected on item (3) of this form.
           required: true
