@@ -18,4 +18,4 @@ We appreciate the correct attribution over our hard work into this, as this was 
 **Copyright © 2026 vonschappler - All rights reserved.**
 
 
-[^1]: You should have received [a copy](GNU.md) of the **GNU General Public License** along with this EULA.
+[^1]: You should have received [a copy](GNU) of the **GNU General Public License** along with this EULA.
