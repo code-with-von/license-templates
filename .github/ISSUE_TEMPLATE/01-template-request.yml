@@ -27,6 +27,7 @@ body:
     id: template-use-case
     validations:
       required: true
+    attributes:
       label: "2. Why and where this template will be used?"
       
 
