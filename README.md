@@ -18,7 +18,7 @@ And that is why **Licenses** exist. So with this in mind, **I had created this s
 
 This project has custom forms for each different type of issue we are currently able to work at.
 
-To submit an issue, click on the [here](https://github.com/code-with-von/license-template/issues/new/choose). That will open our **Issues page** with a set of options for you to choose.
+To submit an issue, click on the [here](https://github.com/code-with-von/license-templates/issues/new/choose). That will open our **Issues page** with a set of options for you to choose.
 
 ### Requesting new license templates
 
