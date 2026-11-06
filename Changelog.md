@@ -2,6 +2,10 @@
 
 ## [R1.0.0] - 2026-11-06
 
+<details>
+
+<summary>@vonschappler</summary>
+
 This is the first review of the license templates
 
 ### Added
@@ -12,3 +16,7 @@ This is the first review of the license templates
 - Add License.md file
 - Update README.md file
 - Add issue templates on `.github/ISSUE_TEMPLATE/` folder
+
+</details>
+
+---
