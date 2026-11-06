@@ -1,11 +1,3 @@
-<!-- 
-
-This is a just formatted copy of the original GNU license.
-
-The actual content was not modified, except in the cases a better formatting for the file was needed.
-
---> 
-
 # GNU Affero General Public License
   
 _Version 3, 19 November 2007_
