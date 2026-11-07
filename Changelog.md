@@ -15,7 +15,7 @@ This is the first review of the license templates
 - Add GNU.md file
 - Add License.md file
 - Update README.md file
-- Add issue templates on `.github/ISSUE_TEMPLATE/` folder
+- Add custom issue templates on `.github/ISSUE_TEMPLATE/` folder
 
 </details>
 
