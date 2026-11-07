@@ -17,7 +17,11 @@
 Start date: 2026-11-03
 End date: 2026-11-06
 
-- Publish review R@1.0.0 of the current project
+---
+
+Publish review R@1.0.0 of the current project
+
+---
 
 - [x] Consolidate repository structure
 - [x] Create github issue templates
