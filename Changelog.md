@@ -1,6 +1,6 @@
 # @code-with-von/license-templates/Changelog
 
-## [R1.0.0] - 2026-11-06
+## [R@1.0.0] - 2026-11-06
 
 <details>
 
