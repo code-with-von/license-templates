@@ -4,7 +4,9 @@
 
 # @code-with-von/license-templates/TODO
 
-## To Do
+## Planned
+
+## Blocked
 
 ## In Progress
 
@@ -29,7 +31,7 @@ Publish review R@1.0.0 of the current project
 - [x] Add open-source-gnu license template files
 - [x] Add read-only license template files
 - [x] Add use-only license template files
-- [x] Add/Update repository documentation files (Changelog, FileTree, README.md. TODO.kanban.md)
+- [x] Add/Update repository documentation files (Changelog, FileTree, README.md, TODO.kanban.md)
 - [x] Add repository Licensing files
 Tags: `R@1.0.0`
 <!-- priority: high -->
