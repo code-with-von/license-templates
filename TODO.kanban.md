@@ -2,7 +2,7 @@
 <!-- GitHub: https://github.com/jebakumarj/md-kanban -->
 <!-- VS Code Extension: Search "MD Kanban" in the extension store (ID: jeddak.md-kanban) -->
 
-# Kanban Board
+# @code-with-von/license-templates/TODO
 
 ## To Do
 
@@ -10,12 +10,14 @@
 
 ## Done
 
-#### Publish Initial codebase
+### Review R@1.0.0
+
+#### Publish R@1.0.0
 <!-- id: task-1793976986479-0 -->
 Start date: 2026-11-03
 End date: 2026-11-06
 
-- Publish review R1.0.0 of the current project
+- Publish review R@1.0.0 of the current project
 
 - [x] Consolidate repository structure
 - [x] Create github issue templates
@@ -25,8 +27,7 @@ End date: 2026-11-06
 - [x] Add use-only license template files
 - [x] Add/Update repository documentation files (Changelog, FileTree, README.md. TODO.kanban.md)
 - [x] Add repository Licensing files
-Tags: `R1.0.0`
+Tags: `R@1.0.0`
 <!-- priority: high -->
 <!-- workload: hard -->
-<!-- due: 2026-11-06 -->
 <!-- assignee: vonschappler -->
