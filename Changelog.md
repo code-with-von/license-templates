@@ -16,6 +16,7 @@ This is the first review of the license templates
 - Add License.md file
 - Update README.md file
 - Add custom issue templates on `.github/ISSUE_TEMPLATE/` folder
+- Add TODO.kanban.md file
 
 </details>
 
