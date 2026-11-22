@@ -1,0 +1,95 @@
+name: A template I would like to use is not provided
+description: I would like to check von Schappler's approach for a specific template
+title: "[New Template Request]: requested template type/name"
+assignees:
+  - vonschappler
+labels:
+  - addition
+  - improvement
+body:
+  - type: markdown
+    attributes:
+      value: |
+        > Use this form to provide details about the template you would like to see implemented by von Schappler.
+        
+  
+  - type: input
+    id: template-name
+    validations:
+      required: true
+    attributes:
+      label: "1. Template name:"
+      placeholder: "e.g., MIT License"
+      description: "Please provide the name of the template you are looking for."
+
+  - type: textarea
+    id: template-use-case
+    validations:
+      required: true
+    attributes:
+      label: "2. Why and where this template will be used?"
+      
+
+  - type: textarea
+    id: template-details
+    validations:
+      required: true
+    attributes:
+      label: "3. Template details:"
+      placeholder: |
+        Please provide as much details as possible about the template you are looking for, following the request example below.
+
+  - type: markdown
+    attributes:
+      value: |
+        > Request example:
+        >
+        > ```md
+        > Please provide as much detail as possible, including:
+        > - The type of template you are looking for
+        > - Any specific requirements or constraints
+        > - Examples of similar templates you have seen
+        > - Any other relevant information, such as possible urls where this template can be found
+        > ```
+
+  - type: dropdown
+    id: contact
+    attributes:
+      description: Let us know if you want to be contacted directly about the progress of work into this.
+      label: "4. Do you want to be contacted about this issue?"
+      options:
+        - "No"
+        - "Yes"
+      default: 0
+    validations:
+      required: true
+
+  - type: input
+    id: email
+    attributes:
+      label: "5. Email:"
+      description: If you select "Yes" above, please provide your email address so that we can contact you about this issue.
+      placeholder: myemail@example.com
+
+  - type: checkboxes
+    id: consent
+    attributes:
+      label: '6. Consentient:' 
+      options:
+        - label: By selecting "Yes" and providing my e-mail, I understand that the developer won't be using it for any other purposes than contacting me about this issue.
+  
+  - type: markdown
+    attributes:
+      value: |
+        ---
+        ## Terms:
+
+  - type: checkboxes
+    id: terms
+    attributes:
+      label: '7. Agreement:' 
+      options:
+        - label: I agree that by submitting this report the information listed here are suggestions that aim to improve the application.
+          required: true
+        - label: I understand that my request may take some time to be attended, and the proposal for improvements I suggested may not be accepted, hence not applied to the application.
+          required: true

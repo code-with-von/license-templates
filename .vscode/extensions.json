@@ -1,0 +1,13 @@
+{
+  "recommendations": [
+    "yahyabatulu.vscode-markdown-alert",
+    "shd101wyy.markdown-preview-enhanced",
+    "jeff-tian.markdown-katex",
+    "bierner.markdown-footnotes",
+    "bierner.markdown-checkbox",
+    "bierner.github-markdown-preview",
+    "streetsidesoftware.code-spell-checker-cspell-bundled-dictionaries",
+    "jeddak.md-kanban",
+    "fanaticpythoner.better-todo-tree"
+  ]
+}
